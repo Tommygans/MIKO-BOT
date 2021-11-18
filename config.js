@@ -8,7 +8,7 @@ userbot = {
    apikey: {
    key: "Kotzkey"
    },
-   prefix: ["/"],
+   prefix: ["!"],
    gexp: 50,
    limit: 100,
    eror: "Sepertinya Erorr",
