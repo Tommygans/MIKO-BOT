@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "6281325994066" ],
+ owner: [ "6285780589674", "6285922275443", ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -8,14 +8,14 @@ userbot = {
    apikey: {
    key: "Kotzkey"
    },
-   prefix: ["!"],
+   prefix: ["/"],
    gexp: 50,
    limit: 100,
    eror: "Sepertinya Erorr",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: 'MikoBot',
-   author: 'github.com/Kotzyy',
+   packname: 'TMMY-BOT',
+   author: 'Tommy,Kot,
     setting: {
     admin: "only admin",
     group: "only group",
